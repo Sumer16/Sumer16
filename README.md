@@ -1,4 +1,4 @@
-### Hi there, I'm Sumer! 👋
+### Hey there, I'm Sumer! 👋
 
 
 <!--
