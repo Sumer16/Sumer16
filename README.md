@@ -22,9 +22,9 @@ I'm Sumer Patel, a MS in CS graduate student and a teaching assistant at Oregon 
 <!--  I have worked on several full-stack web and mobile application projects and every project helped me learn and grow as a software developer. Lately, I'm really fascinated to learn more about the scalability and performance aspect involved in designing large-scale complex systems which drive this ever-growing and ever-demanding tech space. Here are some of the tools and technologies I've worked upon: -->
 
 ⚡ Programming languages: JavaScript, TypeScript, Python, SASS, CSS, HTML, C/C++ and Dart\
-⚡ Database Technologies: Firebase, MongoDB, MySQL, PostgreSQL, Oracle and S3\
-⚡ Frameworks: React, Node.js, Express, Angular, Nuxt.js, Next.js and Jest\
-⚡ Additional Skills: Azure, Figma, AWS, Git, Progressive Web Apps, Web Components, Selenium WebDriver, Jira and Rally
+⚡ Database Technologies: Firebase, MongoDB, MySQL, PostgreSQL, Oracle, MS Access, S3 and DynamoDB\
+⚡ Frameworks: React, Vue, Angular, Node.js, Express, Nuxt.js, Next.js and Jest\
+⚡ Additional Skills: Azure, Figma, Progressive Web Apps, Git, AWS, Web Components, Selenium WebDriver, Jira and Rally
 
 💻 Check out my website: https://sumerpatel.com
 
