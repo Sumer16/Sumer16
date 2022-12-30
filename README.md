@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 I'm Sumer Patel, a CS graduate student and a graduate teaching assistant at Oregon State University. I'm also a member of the Software Innovation Track at Oregon State University. I'm passionate about learning, improving, and making things better, building, coding, and developing software that impacts the lives of people on a daily basis. I have worked on several full-stack web and mobile application projects and every project has helped me learn and grow as a front-end/ui developer.
 
-⚡ Programming languages: JavaScript, TypeScript, Python, SASS, CSS, HTML, Java, C/C++ and Dart\
+⚡ Programming languages: JavaScript, TypeScript, Python, SASS, CSS, HTML, Java, and Dart\
 ⚡ Database Technologies: Firebase, MongoDB, MySQL, PostgreSQL, Oracle, S3, and DynamoDB\
-⚡ Frameworks: React, Redux, Vue, Angular, Node.js, Express, Bootstrap, Tailwind, Nuxt.js, Next.js, and Jest\
+⚡ Frameworks: React, Next.js, Redux, Tailwind, Node.js, Express, Vue, Angular, Bootstrap, Nuxt.js, and Jest\
 ⚡ Additional Skills: AWS, Azure, Figma, Progressive Web Apps, Git, Web Components, Selenium WebDriver, Jira and Rally
 
-💻 Check out my website: https://sumerpatel.dev
+💻 Check out my portfolio website: https://sumerpatel.dev
 
 💬 Feel free to get in touch with me here on Github or reach out to me at: patelsum@oregonstate.edu. If you feel like, you could also contribute to my existing Github projects or give me any suggestions regarding them.
