@@ -30,4 +30,4 @@ I'm Sumer Patel, a CS graduate student and a graduate teaching assistant at Oreg
 
 💻 Check out my portfolio website: https://sumerpatel.dev
 
-💬 Feel free to get in touch with me here on Github or reach out to me at: patelsum@oregonstate.edu. If you feel like, you could also contribute to my existing Github projects or give me any suggestions regarding them.
+💬 Feel free to get in touch with me here on Github or reach out to me at: sumerdpatel@gmail.com. If you feel like, you could also contribute to my existing Github projects or give me any suggestions regarding them.
