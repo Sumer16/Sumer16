@@ -25,7 +25,7 @@ I'm Sumer Patel, a CS graduate student and a graduate teaching assistant at Oreg
 
 ⚡ Programming languages: JavaScript, TypeScript, Python, SASS, CSS, HTML, Java, and Dart\
 ⚡ Database Technologies: Firebase, MongoDB, MySQL, PostgreSQL, Oracle, S3, and DynamoDB\
-⚡ Frameworks: React, Next.js, Redux, Tailwind, Node.js, Express, Svelte, Vue, Angular, Bootstrap, Nuxt.js, and Jest\
+⚡ Frameworks: React, Next.js, Redux, Cypress, Tailwind, Jest, Node.js, Express, Svelte, Vue, Angular, Bootstrap, and Nuxt.js\
 ⚡ Additional Skills: AWS, Azure, Figma, Progressive Web Apps, Git, Web Components, Selenium WebDriver, Jira and Rally
 
 💻 Check out my portfolio website: https://sumerpatel.dev
