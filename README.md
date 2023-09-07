@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!-- I'm Sumer Patel, a MS in CS graduate student and a teaching assistant at Oregon State University. I'm also a member of the Software Innovation Track at Oregon State University. Previously, I have also worked as a UI developer at Accenture. I'm passionate about learning, improving and making things better, building, coding and developing software which impact the lives of people on a daily basis. -->
 <!--  I have worked on several full-stack web and mobile application projects and every project helped me learn and grow as a software developer. Lately, I'm really fascinated to learn more about the scalability and performance aspect involved in designing large-scale complex systems which drive this ever-growing and ever-demanding tech space. Here are some of the tools and technologies I've worked upon: -->
 
-I'm Sumer Patel, a CS graduate student and a graduate teaching assistant at Oregon State University. I'm also a member of the Software Innovation Track at Oregon State University. I'm passionate about learning, improving, and making things better, building, coding, and developing software that impacts the lives of people on a daily basis. I have worked on several full-stack web and mobile application projects and every project has helped me learn and grow as a front-end/ui developer.
+I'm Sumer Patel, a CS graduate student and a graduate teaching assistant at Oregon State University. I'm also a member of the Software Innovation Track at Oregon State University. I'm passionate about learning, improving, building, coding, and developing software that impacts the lives of people on a daily basis. I have worked on several full-stack web and mobile application projects, and every project has helped me learn and grow as a front-end/UI developer.
 
 ⚡ Programming languages: JavaScript, TypeScript, Python, SASS, CSS, HTML, Java, and Dart\
 ⚡ Database Technologies: Firebase, MongoDB, MySQL, PostgreSQL, Oracle, S3, and DynamoDB\
 ⚡ Frameworks: React, Next.js, Redux, Cypress, Tailwind, Jest, Node.js, Express, Svelte, Vue, Angular, Bootstrap, and Nuxt.js\
-⚡ Additional Skills: AWS, Azure, Figma, Progressive Web Apps, Git, Web Components, Selenium WebDriver, Jira and Rally
+⚡ Additional Skills: AWS, Azure, Figma, Progressive Web Apps, Git, GCP Web Components, Selenium WebDriver, and Jira
 
 💻 Check out my portfolio website: https://sumerpatel.dev
 
