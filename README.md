@@ -1,33 +1,12 @@
 ### Hey there, I'm Sumer! 👋
 
+I'm Sumer Patel, a Mobile Application Developer working at Portalys. I recently graduated with a Master's degree in CS from Oregon State University. During my summers, I interned at Pride Places & Forbes. Before pursuing my master's degree, I used to work as a Front-End Engineer at Accenture. I'm passionate about learning, improving, and making things better, building, coding, and developing software that impacts the lives of people on a daily basis.
 
-<!--
-
-**Sumer16/Sumer16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about nothing 😛
-- 📫 How to reach me: Can drop me an email at sumer.patel@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
--->
-
-<!-- I'm Sumer Patel, a MS in CS graduate student and a teaching assistant at Oregon State University. I'm also a member of the Software Innovation Track at Oregon State University. Previously, I have also worked as a UI developer at Accenture. I'm passionate about learning, improving and making things better, building, coding and developing software which impact the lives of people on a daily basis. -->
-<!--  I have worked on several full-stack web and mobile application projects and every project helped me learn and grow as a software developer. Lately, I'm really fascinated to learn more about the scalability and performance aspect involved in designing large-scale complex systems which drive this ever-growing and ever-demanding tech space. Here are some of the tools and technologies I've worked upon: -->
-
-I'm Sumer Patel, a CS graduate student and a graduate teaching assistant at Oregon State University. I'm also a member of the Software Innovation Track at Oregon State University. I'm passionate about learning, improving, building, coding, and developing software that impacts the lives of people on a daily basis. I have worked on several full-stack web and mobile application projects, and every project has helped me learn and grow as a front-end/UI developer.
-
-⚡ Programming languages: JavaScript, TypeScript, Python, SASS, CSS, HTML, Java, and Dart\
-⚡ Database Technologies: Firebase, MongoDB, MySQL, PostgreSQL, Oracle, S3, and DynamoDB\
-⚡ Frameworks: React, Next.js, Redux, Cypress, Tailwind, Jest, Node.js, Express, Svelte, Vue, Angular, Bootstrap, and Nuxt.js\
-⚡ Additional Skills: AWS, Azure, Figma, Progressive Web Apps, Git, GCP Web Components, Selenium WebDriver, and Jira
+⚡ Programming languages: TypeScript, JavaScript, Python, Go, C#, CSS, HTML, and Rust\
+⚡ Database Technologies: MySQL, PostgreSQL, Supabase, AppWrite, MongoDB, Redis, SQLite, Firebase, S3, and DynamoDB\
+⚡ Frameworks: React Native, Next.js, React, Zustand, GraphQL, Redux, Cypress, Tailwind, NestJS, Node.js, Express, Tailwind, Svelte, Vue, and Angular\
+⚡ Additional Skills: AWS, Azure, Expo, Figma, Cypress, Postman, Jenkins, Jest, Progressive Web Apps, Git, GCP, Web Components, Selenium WebDriver, and QA
 
 💻 Check out my portfolio website: https://sumerpatel.dev
 
-💬 Feel free to get in touch with me here on Github or reach out to me at: sumerpatel.dev@gmail.com. If you feel like, you could also contribute to my existing Github projects or give me any suggestions regarding them.
+💬 Feel free to reach out to me at sumerpatel.dev@gmail.com or connect with me here on ***GitHub***. I’d love to hear your feedback on my projects or discuss any new ideas and collaborations!
