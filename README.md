@@ -4,8 +4,8 @@ I'm a **Mobile Application Developer** working at Portalys. I recently graduated
 
 ⚡ **Programming languages:** TypeScript, JavaScript, Python, Go, C#, CSS, HTML, and Rust\
 ⚡ **Database Technologies:** PostgreSQL, Supabase, AppWrite, MongoDB, Redis, SQLite, Firebase, MySQL, S3, and DynamoDB\
-⚡ **Frameworks:** React Native, Next.js, React, Astro, Zustand, Redux, Tailwind, D3, NestJS, Node.js, Express, Svelte, Vue, and Angular\
-⚡ **Additional Skills:** Expo, PowerSync, Azure, AWS, Figma, Cypress, GraphQL, REST, Postman, Jenkins, Jest, PWA, Git, GCP, and QA
+⚡ **Frameworks:** React Native, Next.js, React, Astro, Zustand, Redux, Tailwind, NestJS, Node.js, Express, Svelte, Vue, and Angular\
+⚡ **Additional Skills:** Expo, PowerSync, Azure, AWS, Figma, Cypress, GraphQL, REST, Jenkins, Jest, PWA, Git, GCP, and QA
 
 💻 Check out my **portfolio** website: https://sumerpatel.dev
 
