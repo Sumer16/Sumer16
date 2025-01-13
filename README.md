@@ -1,17 +1,17 @@
 # Hey there, I'm Sumer! 👋
 
-I'm a **Mobile Application Developer** working at Portalys. I recently graduated from Oregon State University. During my master's at OSU, I interned at Forbes & Pride Places. Before pursuing my master's, I used to work as a **Front-End Engineer** at Accenture. I'm passionate about learning, improving, and making user-friendly applications that improve the lives of people on a daily basis.
+I'm a **Mobile Application Developer** working at Portalys (Event Ticketing Platform). I graduated from Oregon State University with a Master's in Computer Science. During my Master's, I interned at Forbes & Pride Places. Before pursuing my Master's, I used to work as a **Frontend Engineer** at Accenture. I'm passionate about learning, improving, and making user-centric applications that improve the lives of people on a daily basis.
 
-⚡ **Programming languages:** TypeScript, JavaScript, Python, Go, C#, CSS, HTML, and Rust\
-⚡ **Database Technologies:** PostgreSQL, Supabase, AppWrite, MongoDB, Redis, SQLite, Firebase, MySQL, S3, and DynamoDB\
-⚡ **Frameworks:** React Native, Next.js, React, Astro, Zustand, Redux, Tailwind, NestJS, Node.js, Express, Svelte, Vue, and Angular\
-⚡ **Additional Skills:** Expo, PowerSync, Azure, AWS, Figma, Cypress, GraphQL, REST, Jenkins, Jest, PWA, Git, GCP, and QA
+⚡ **Programming languages:** JavaScript, TypeScript, Kotlin, Swift, Python, Go, C#, C++\
+⚡ **Database Technologies:** PostgreSQL, MySQL, NoSQL, MongoDB, SQLite, Redis, DynamoDB\
+⚡ **Frameworks & Libraries:** React Native, Next.js, React, GraphQL, Redux, Zustand, NestJS, Node.js, Express, Tailwind, Jest, Cypress\
+⚡ **Other Skills:** Expo, GCP, Azure, AWS, Docker, Kubernetes, GitHub Actions, Git, Apache Kafka, Jenkins
 
 💻 Check out my **portfolio** website: https://sumerpatel.dev
 
 💬 Feel free to reach out to me at sumerpatel.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/patelsum/). I’d love to hear your feedback on my projects or discuss any new ideas and collaborations!
 
-📱 Some apps that I have currently published on App Store & Google Play (through Portalys):
+📱 Some of the apps that I have currently published on App Store & Google Play (through Portalys):
 
 ### Portalys 
 - [App Store](https://apps.apple.com/us/app/portalys-whats-the-move/id6670410649)
