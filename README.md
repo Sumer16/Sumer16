@@ -1,6 +1,6 @@
 # Hey there, I'm Sumer! 👋
 
-I'm a **Mobile Application Developer** with over 3 years of experience in full-stack mobile and web development. I graduated from Oregon State University with a Master's in Computer Science. During my Master's, I interned at Forbes & Pride Places. Before pursuing my Master's, I used to work as a **Frontend Engineer** at Accenture. I'm passionate about learning, improving, and making user-centric applications that improve the lives of people on a daily basis.
+I'm a **Mobile Engineer** with over 3 years of experience in full-stack mobile and web development. I graduated from Oregon State University with a Master's in Computer Science. During my Master's, I interned at Forbes & Pride Places. Before pursuing my Master's, I used to work as a **Frontend Engineer** at Accenture. I'm passionate about learning, improving, and making user-centric applications that improve the lives of people on a daily basis.
 
 ⚡ **Programming languages:** JavaScript, TypeScript, Kotlin, Swift, Python, Go, C++\
 ⚡ **Database Technologies:** PostgreSQL, MySQL, NoSQL, MongoDB, SQLite, Redis\
