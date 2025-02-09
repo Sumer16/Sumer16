@@ -7,8 +7,6 @@ I'm a **Mobile Engineer** with over 3 years of experience in full-stack mobile a
 ⚡ **Frameworks & Libraries:** React Native, Next.js, React, GraphQL, Redux, Zustand, NestJS, Node.js, Express, Jest, Cypress\
 ⚡ **Additional Skills:** Expo, GCP, Azure, AWS, Docker, Kubernetes, GitHub Actions, Git, Apache Kafka, Jenkins
 
-💻 Check out my **portfolio** website: https://sumerpatel.dev
-
 💬 Feel free to reach out to me at sumerpatel.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/patelsum/). I’d love to hear your feedback on my projects or discuss any new ideas and collaborations!
 
 📱 Some of the apps that I have currently published on App Store & Google Play (for Portalys):
